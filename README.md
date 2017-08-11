@@ -1,6 +1,8 @@
 ## Primaries.vim
-A vim theme for programmers, inpired by good code from mango.vim, good colors
-from mustang.vim, in good readability inspired by monochrome.vim.
+A vim theme for programmers, inpired by good code from
+[mango.vim](https://github.com/goatslacker/mango.vim), good colors from
+[mustang.vim](https://github.com/croaker/mustang-vim), in good readability
+inspired by [monochrome.vim](https://github.com/fxn/vim-monochrome).
 
 I thought monochrome.vim was a good idea, but a bit extremist, so I added a few
 drops of color.
