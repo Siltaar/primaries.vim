@@ -20,7 +20,7 @@ Then, place in your `.vimrc` :
 
 ## Best viewed with Redshift
 
-Best viewed with [Redshift](http://jonls.dk/redshift/), and the following configuration values :
+Best viewed with [Redshift](http://jonls.dk/redshift/) active with the following configuration:
 ```ini
 [redshift]
 temp-day=3500
