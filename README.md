@@ -16,7 +16,9 @@ Then, place in your `.vimrc` :
 	color primaries.vim
 
 ## Preview
-![primaries vim](https://user-images.githubusercontent.com/1504433/29222923-cc44dfec-7ec4-11e7-8037-05fd726cf3e3.png)
+![primaries_v2 vim](https://user-images.githubusercontent.com/1504433/37876511-d0bbe91a-303c-11e8-9006-2a7d97f4264a.png)
+
+The font in demonstration is http://www.levien.com/type/myfonts/inconsolata.html[Inconsolata.]
 
 ## Best viewed with Redshift
 
