@@ -18,7 +18,7 @@ Then, place in your `.vimrc` :
 ## Preview
 ![primaries_v2 vim](https://user-images.githubusercontent.com/1504433/37876511-d0bbe91a-303c-11e8-9006-2a7d97f4264a.png)
 
-The font in demonstration is http://www.levien.com/type/myfonts/inconsolata.html[Inconsolata.]
+The font in demonstration is [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html).
 
 ## Best viewed with Redshift
 
